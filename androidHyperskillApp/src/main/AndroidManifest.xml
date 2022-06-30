@@ -12,7 +12,7 @@
 
         <activity
             android:windowSoftInputMode="adjustResize"
-            android:name="org.hyperskill.app.android.main.view.ui.activity.MainActivity"
+            android:name="org.hyperskill.app.android.main.view.ui.activity.WorkshopActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
